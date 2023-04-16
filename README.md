@@ -15,5 +15,7 @@ In summary, PyTorch Lightning is a framework that streamlines the development an
 
 PyTorch Lightning docs : https://lightning.ai/docs/pytorch/latest/
 
+## 🤖Tech-Stack
+
 - ![Screenshot from 2023-03-23 21-45-47](https://user-images.githubusercontent.com/103961770/227267524-f200b38a-d02d-4bf7-a26b-f041c4ba0dba.png)
 - ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
